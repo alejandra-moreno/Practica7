@@ -8,7 +8,7 @@ En la carpeta resources/db se encuentra el archivo *schema.sql* donde se han def
 
 El módulo de persistencia debe incluir las operaciones (INSERT, UPDATE, SELECT y DELETE). Dentro de la carpeta controller se encuentran los controladores con las funciones que permiten manejar los datos almacenados en la base de datos mediante el id. Los archivos en la carpeta model funcionan como puente entre java y sql, mientras que los de la carpeta repository permiten ejecutar las denominadas operaciones CRUD (Create, Read, Update y Delete). Finalmente, en la carpeta service se ha desarrollado la persistencia de datos de modo que por un lado están los archivos DTO y por otro las implementaciones.
 
-https://alejandramoreno-practica-71ap8ywff76.ws-eu40.gitpod.io/
+[![](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/alejandra-moreno/Practica7)
 
 ## Referencias
 
